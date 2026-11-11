@@ -16,11 +16,11 @@ Featured Projects
 1. Superstore Sales Performance and Advanced Analytics Dashboard
 An interactive, four-page Power BI dashboard analyzing four years of retail sales data. This project demonstrates my ability to build a Star Schema data model, clean data in Power Query, and use advanced analytics (Decomposition Trees and Key Influencers) to uncover business insights.
 *   **Tools:** Power BI, Power Query, DAX
-*   **🔗 [View the Repository](https://github.com/JosephineSunday/Superstore-Sales-Analysis-Power-BI)** 
+*   **🔗 [View the Repository](https://github.com/JosphineSunday/Superstore-Sales-Analysis-Power-BI)** 
 
 *(More projects coming soon!)*
 
-### 📫 How to Reach Me
+How to Reach Me
 
 I am currently open to Data Analyst and Business Intelligence opportunities. Let's connect!
 
